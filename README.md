@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Gamuda PM Platform
 
 > Take-Home Assessment — Software Engineer Role, Gamuda
@@ -161,6 +160,5 @@ This enables semantic search and RAG over all project descriptions without chang
 - Backend: `Ctrl+C` in the uvicorn terminal
 - Frontend: `Ctrl+C` in the npm terminal
 - Database: `projects.db` is a local file — delete it to reset all data
-=======
-# Gamuda-Assessment
->>>>>>> b2ffaef51d4498900cf45c49ad2a10e0282ee7aa
+
+
